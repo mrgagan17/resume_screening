@@ -21,3 +21,8 @@ How It Works
 -Trains Logistic Regression model
 
 -Predicts score for new resumes and ranks them
+
+-Upload resumes + enter job description
+-Model reads and scores resumes using trained ML model
+-Shows ranked candidates from best to worst
+

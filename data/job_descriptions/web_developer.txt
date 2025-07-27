@@ -1,0 +1,14 @@
+We are looking for a skilled Web Developer to join our team and build dynamic, responsive websites and web applications.
+
+Responsibilities:
+- Develop and maintain front-end and back-end web applications.
+- Work with HTML, CSS, JavaScript, and frameworks like React or Angular.
+- Collaborate with designers and backend developers to create seamless user experiences.
+- Optimize websites for performance and scalability.
+
+Required Skills:
+- Proficiency in HTML, CSS, JavaScript.
+- Experience with front-end frameworks (React, Vue, or Angular).
+- Knowledge of back-end development (Node.js, PHP, or Python Flask/Django).
+- Familiarity with databases like MySQL or MongoDB.
+- Understanding of version control (Git) and REST APIs.

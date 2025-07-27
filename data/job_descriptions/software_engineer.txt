@@ -1,0 +1,14 @@
+We are hiring a Software Engineer to design, develop, and maintain software applications for various business needs.
+
+Responsibilities:
+- Write clean, efficient, and maintainable code.
+- Design and implement scalable software solutions.
+- Collaborate with cross-functional teams to deliver projects on time.
+- Perform debugging, testing, and code reviews.
+
+Required Skills:
+- Strong programming skills in Python, Java, or C++.
+- Knowledge of software development life cycle (SDLC).
+- Experience with databases (MySQL, PostgreSQL, or MongoDB).
+- Familiarity with cloud services (AWS, Azure, or GCP) is a plus.
+- Good problem-solving and analytical skills.

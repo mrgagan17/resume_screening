@@ -1,0 +1,6 @@
+We are looking for a Data Scientist with experience in Python, Machine Learning, and NLP.
+Skills required:
+- Python, Pandas, NumPy
+- scikit-learn, TensorFlow, PyTorch
+- Experience with data visualization and SQL
+- Strong problem-solving skills

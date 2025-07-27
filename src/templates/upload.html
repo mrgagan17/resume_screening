@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Upload Resumes</title>
+</head>
+<body>
+  <h1>AI Powered Resume Screening</h1>
+  <form action="/upload" method="post" enctype="multipart/form-data">
+    <label>Job Description:</label><br>
+    <textarea name="job_description" rows="5" cols="50"></textarea><br><br>
+
+    <label>Upload Resumes:</label><br>
+    <input type="file" name="resumes" multiple><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>

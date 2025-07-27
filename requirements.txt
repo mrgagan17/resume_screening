@@ -1,0 +1,7 @@
+flask
+pdfminer.six
+docx2txt
+scikit-learn
+pandas
+nltk
+joblib
